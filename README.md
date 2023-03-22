@@ -1,11 +1,11 @@
-About r-systemfit
-=================
+About r-systemfit-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-systemfit-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.systemfit.org
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-systemfit-feedstock/blob/main/LICENSE.txt)
 
 Summary: Econometric estimation of simultaneous systems of linear and nonlinear equations using Ordinary Least Squares (OLS), Weighted Least Squares (WLS), Seemingly Unrelated Regressions (SUR), Two-Stage Least Squares (2SLS), Weighted Two-Stage Least Squares (W2SLS), and Three-Stage Least Squares (3SLS) as suggested, e.g., by Zellner (1962) <doi:10.2307/2281644>, Zellner and Theil (1962) <doi:10.2307/1911287>, and Schmidt (1990) <doi:10.1016/0304-4076(90)90127-F>.
 
