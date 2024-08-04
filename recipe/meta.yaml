@@ -59,7 +59,7 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - corentinlelannier
+    - corentin2l
 
 # Package: systemfit
 # Version: 1.1-24
