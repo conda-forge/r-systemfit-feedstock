@@ -144,5 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
-* [@corentinlelannier](https://github.com/corentinlelannier/)
+* [@corentin2l](https://github.com/corentin2l/)
 
